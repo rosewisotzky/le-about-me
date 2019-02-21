@@ -1,0 +1,11 @@
+h1  {
+    border: 1px dotted teal;
+}
+
+.date {
+    font-style: italic;
+}
+
+.place {
+    background-color: #FF7F50;
+}
